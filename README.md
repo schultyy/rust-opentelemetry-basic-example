@@ -1,6 +1,6 @@
 # rust-opentelemetry-basic-example
 
-Instrument a Rust application with OpenTelemetry and export traces to Jaeger
+Example Source Code for https://21-lessons.com/how-to-instrument-a-rust-application-with-opentelemetry/
 
 ## Usage
 
